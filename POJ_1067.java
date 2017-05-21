@@ -21,7 +21,7 @@ public class POJ_1067
       if( result ){
         System.out.println("0");
       } else {
-        System.out.println("1");
+        System.out.println("1");//System.out.println("1");
       }
     }
   }
